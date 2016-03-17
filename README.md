@@ -35,3 +35,17 @@ This appears to work on my Mac Pro running 10.6.8 in Firefox and Chrome,
 as well as a Windows machine of unknown OS running Chrome.
 
 
+
+## Examples
+
+
+[The example question](example_question_1.png)
+[Click the gear menu and add javascript](example_question_2.png)
+[Enter this javascript with YOUR API KEY](example_question_javascript.js)
+[Edit the question](example_question_3_normal_view.png)
+[Switch to HTML view](example_question_4_html_view.png)
+[Add this HTML with link](example_question_html.html)
+[A preview with address](example_question_5_preview_before_map.png)
+[the map pop over](example_question_6_preview_with_map.png)
+[The question with latitude and longitude](example_question_7_preview_after_map.png)
+
